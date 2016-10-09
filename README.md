@@ -1,5 +1,5 @@
 # boot.bundle.edn
-My boot.bundle.edn file
+My boot.bundle.edn file. See [boot-bundle](https://github.com/borkdude/boot-bundle) for more details.
 
 Example usage:
 
